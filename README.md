@@ -130,7 +130,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/jostin-ariel-mora-campos-315605276" target="_blank">
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jostin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
